@@ -1,6 +1,4 @@
-/* 
-Reseting some elements 
-*/
+
 
 body,h1,h2,h3,p,ul,ol,li,a,img,video{
     margin: 0;
@@ -9,7 +7,7 @@ body,h1,h2,h3,p,ul,ol,li,a,img,video{
 
 /* Some styling for body element */
 body{
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arial', 'Helvetica', 'Arial Unicode MS', sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
